@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img width=100% src="C:\Users\yashb\OneDrive\Documents\HTML\the snappy dev.png><br><br>
+      <img width=100% src="C:\Users\yashb\OneDrive\Documents\HTML\the snappy dev.png/><br><br>
       
    [The Snappy Dev (Official)](https://github.com/TheSnappy-Dev)<br>
     </td>
@@ -18,7 +18,7 @@
 
 </div>
 
-🎉 **The Snappy Dv** is a vibrant community of developers and tech enthusiasts collaborating on open-source projects, sharing knowledge, and building innovative solutions together.
+🎉 **The Snappy Dev** is a vibrant community of developers and tech enthusiasts collaborating on open-source projects, sharing knowledge, and building innovative solutions together.
 And We love Open-Source.<br>
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 

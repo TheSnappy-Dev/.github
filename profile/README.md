@@ -54,13 +54,14 @@ We welcome contributors of all levels. Check out our repositories and start coll
 
 
 <img width="55" height="58" alt="image" src="https://github.com/user-attachments/assets/a869969c-476d-4531-b359-5eb503e58890" />
+<img width="64" height="60" alt="image" src="https://github.com/user-attachments/assets/da726fb3-f640-442e-a848-ad6ff10ac233" />
+
+
+
+https://discord.gg/3zmzFWGt
 thesnappydev@gmail.com
 
 
-
-<img width="64" height="60" alt="image" src="https://github.com/user-attachments/assets/da726fb3-f640-442e-a848-ad6ff10ac233" />
-
-https://discord.gg/3zmzFWGt
 
 
 

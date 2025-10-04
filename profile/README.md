@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/TheSnappy-Dev" alt="Organization Banner" width="200"/><br><br>
+      <img src="https://github.com/TheSnappy-Dev" alt="Organization Banner" width="200"><br><br>
       
    [The Snappy Dev (Official)](https://github.com/TheSnappy-Dev)<br>
     </td>

@@ -9,7 +9,8 @@
 <table>
   <tr>
     <td>
-      <img width=100% src="C:\Users\yashb\OneDrive\Documents\HTML\the snappy dev.png/><br><br>
+      <img width="381" height="380" alt="the snappy dev" src="https://github.com/user-attachments/assets/dd98553d-286f-434b-a80c-947f006b1874" />
+
       
    [The Snappy Dev (Official)](https://github.com/TheSnappy-Dev)<br>
     </td>
@@ -50,10 +51,12 @@ We welcome contributors of all levels. Check out our repositories and start coll
 
 
 **By Contacting us through **
-<img src="https://www.pinterest.com/pin/gmail-logo-united-states--3025924742237394"/>
-yug20256@gmail.com
+<img width="55" height="58" alt="image" src="https://github.com/user-attachments/assets/a869969c-476d-4531-b359-5eb503e58890" />
+mail to:thesnappydev@gmail.com
 
-<img src="https://www.flaticon.com/free-icon/discord_5968756"/>
+
+<img width="64" height="60" alt="image" src="https://github.com/user-attachments/assets/da726fb3-f640-442e-a848-ad6ff10ac233" />
+
 https://discord.gg/3zmzFWGt
 
 [Explore our repositories](https://github.com/TheSnappy-Dev)

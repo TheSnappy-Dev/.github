@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/TheSnappy-Dev" alt="Organization Banner" width="200"><br><br>
+      <img src="https://github.com/TheSnappy-Dev" alt="Organization Banner" width="200"/><br><br>
       
    [The Snappy Dev (Official)](https://github.com/TheSnappy-Dev)<br>
     </td>
@@ -50,10 +50,10 @@ We welcome contributors of all levels. Check out our repositories and start coll
 
 
 **By Contacting us through **
-<img src="https://www.pinterest.com/pin/gmail-logo-united-states--3025924742237394/">
+<img src="https://www.pinterest.com/pin/gmail-logo-united-states--3025924742237394"/>
 yug20256@gmail.com
 
-<img src="https://www.flaticon.com/free-icon/discord_5968756">
+<img src="https://www.flaticon.com/free-icon/discord_5968756"/>
 https://discord.gg/3zmzFWGt
 
 [Explore our repositories](https://github.com/TheSnappy-Dev)

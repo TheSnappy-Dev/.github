@@ -1,73 +1,94 @@
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=The%20Snappy%20Dev🚀&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-# Welcome to The Snappy Dev 🚀
+<div align="center">
 
-<div align=center>
+<img src="https://github.com/user-attachments/assets/dd98553d-286f-434b-a80c-947f006b1874" width="300" alt="The Snappy Dev Logo" />
 
-<table>
-  <tr>
-    <td>
-      <img width="381" height="380" alt="the snappy dev" src="https://github.com/user-attachments/assets/dd98553d-286f-434b-a80c-947f006b1874" />
+# ✨ Welcome to The Snappy Dev ✨  
+**✨ Coding for better Tommorow**
 
-      
-   [The Snappy Dev (Official)](https://github.com/TheSnappy-Dev)<br>
-    </td>
-  </tr>
-</table>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub followers](https://img.shields.io/github/followers/TheSnappy-Dev?style=social)](https://github.com/TheSnappy-Dev)
+[![Discord](https://img.shields.io/discord/1147615107007014963?label=Join%20Us%20on%20Discord&logo=discord&style=flat-square)](https://discord.gg/tPp4xSPT)
+[![Gmail](https://img.shields.io/badge/Gmail-thesnappydev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:thesnappydev@gmail.com)
 
 </div>
 
-🎉 **The Snappy Dev** is a vibrant community of developers and tech enthusiasts collaborating on open-source projects, sharing knowledge, and building innovative solutions together.
-And We love Open-Source.<br>
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+---
 
+## 🌟 Who We Are
+
+> **The Snappy Dev** is a dynamic developer organization focused on:
+- ⚒️ Building impactful **open-source projects**
+- 🎓 Sharing tutorials, tips, and tricks
+- 👥 Collaborating on exciting ideas
+- 🚀 Growing together as a tech community
+
+We’re all about **code, creativity, and collaboration**. And yes, **we 💖 open source**.
 
 ---
 
-## 💻 What We Do
-- Contribute to open-source projects
-- Share coding tutorials and tips
-- Host collaborative coding events
-- Build tools and resources for developers
+## 🚀 What We Do
+
+✨ Our key initiatives include:
+
+- ✅ Open-source tools & libraries
+- ✅ Web & mobile app development
+- ✅ Real-world projects for learning & collaboration
+- ✅ Friendly coding competitions & live events
+- ✅ Modern UI/UX + Dev-focused innovation
+
+> 🔗 Dive in and become part of something **snappy & smart**!
 
 ---
-## Our Founder
+
+## 👨‍💻 Our Founders
 
 <table>
 <tr>
-<td align="center">
-<a href="https://github.com/yuguwduewgd"><img src="https://github.com/yuguwduewgd.png" height="140px" width="140px" alt="Kushal Meghani"></a>
-
-</td>
-<td align="center">
-<a href="https://github.com/DMS-Menula"><img src="https://github.com/DMS-Menula.png" height="140px" width="140px" alt="Yug aka bodyguard"></a>
+  <td align="center">
+    <a href="https://github.com/yuguwduewgd">
+      <img src="https://github.com/yuguwduewgd.png" width="120" style="border-radius: 50%" /><br/>    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/DMS-Menula">
+      <img src="https://github.com/DMS-Menula.png" width="120" style="border-radius: 50%" alt="Menula De Silva" /><br/>
+    </a>
+  </td>
 </tr>
 </table>
 
-## 🤝 Join Us
-We welcome contributors of all levels. Check out our repositories and start collaborating today!
+---
 
+## 🤝 Join Our Community
 
-**By Contacting us through **
+We welcome developers of **all skill levels**. Whether you're a beginner or pro, there's a place for you here! 💫
 
+### 📬 How to Reach Us:
+<div align="center">
 
-<img width="55" height="58" alt="image" src="https://github.com/user-attachments/assets/a869969c-476d-4531-b359-5eb503e58890" />
-<img width="64" height="60" alt="image" src="https://github.com/user-attachments/assets/da726fb3-f640-442e-a848-ad6ff10ac233" />
+<a href="https://discord.gg/tPp4xSPT">
+  <img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:thesnappydev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+</div>
 
+---
 
-https://discord.gg/3zmzFWGt
-thesnappydev@gmail.com
+## 🔍 Explore Our Work
 
+Check out our live projects, collaborative repos, and community experiments:
 
+👉 [**Visit Our GitHub**](https://github.com/TheSnappy-Dev)
 
+---
 
-
-
-
-
-
-[Explore our repositories](https://github.com/TheSnappy-Dev)
-
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
+</p>

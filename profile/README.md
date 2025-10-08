@@ -57,6 +57,11 @@ We’re all about **code, creativity, and collaboration**. And yes, **we 💖 op
       <img src="https://github.com/DMS-Menula.png" width="120" style="border-radius: 50%" alt="Menula De Silva" /><br/>
     </a>
   </td>
+  <td align="center">
+    <a href="https://github.com/anshumanjadiya1102">
+      <img src="https://github.com/anshumanjadiya1102.png" width="120" style="border-radius: 50%" alt="Anushman Jaiya 1102" /><br/>
+    </a>
+  </td>
 </tr>
 </table>
 

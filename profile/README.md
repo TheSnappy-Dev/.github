@@ -67,8 +67,9 @@ We’re all about **code, creativity, and collaboration**. And yes, **we 💖 op
 ## 👨‍💻 Our Members
 <a href="https://github.com/AnshumanJadiya1102">
 <img src="https://github.com/AnshumanJadiya1102.png" width="120" style="border-radius: 50% alt "Anshuman Jadiya" /><br/>
-<a href="https://github.com/sanjay-kv">
-<img src="https://github.com/sanjay-kv.png" width="120" style="border-radius: 50% alt "Sanjay Kg"/><br/>
+
+<a href="https://github.com/DarainHyder">
+<img src="https://github.com/DarainHyder.png" width="120" style="border-radius: 50% alt "Darain Hyder"/><br/>
 
 ## 🤝 Join Our Community
 

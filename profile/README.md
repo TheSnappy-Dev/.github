@@ -70,6 +70,8 @@ We’re all about **code, creativity, and collaboration**. And yes, **we 💖 op
 
 <a href="https://github.com/DarainHyder">
 <img src="https://github.com/DarainHyder.png" width="120" style="border-radius: 50% alt "Darain Hyder"/><br/>
+<a href="https://github.com/sanjay-kv">
+<img src="https://github.com/sanjay-kv.png" width="120" style="border-radius: 50% alt "Sanjay Kv /><br/>
 
 ## 🤝 Join Our Community
 

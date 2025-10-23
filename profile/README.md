@@ -11,7 +11,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub followers](https://img.shields.io/github/followers/TheSnappy-Dev?style=social)](https://github.com/TheSnappy-Dev)
-[![Discord](https://img.shields.io/discord/1147615107007014963?label=Join%20Us%20on%20Discord&logo=discord&style=flat-square)](https://discord.gg/tPp4xSPT)
+[![Discord](https://img.shields.io/discord/1147615107007014963?label=Join%20Us%20on%20Discord&logo=discord&style=flat-square)]("https://discord.gg/tPp4xSPT")
 [![Gmail](https://img.shields.io/badge/Gmail-thesnappydev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:thesnappydev@gmail.com)
 
 </div>

@@ -49,8 +49,8 @@ We’re all about **code, creativity, and collaboration**. And yes, **we 💖 op
 <table>
 <tr>
   <td align="center">
-    <a href="https://github.com/yuguwduewgd">
-      <img src="https://github.com/yuguwduewgd.png" width="120" style="border-radius: 50%" /><br/>    </a>
+    <a href="https://github.com/Yug2920">
+      <img src="https://github.com/Yug2920.png" width="120" style="border-radius: 50%" /><br/>    </a>
   </td>
   <td align="center">
     <a href="https://github.com/DMS-Menula">
